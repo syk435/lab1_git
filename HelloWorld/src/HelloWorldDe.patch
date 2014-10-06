@@ -1,0 +1,25 @@
+From b3c611213d72c2b19f55c21fbbfafb67f7d093cc Mon Sep 17 00:00:00 2001
+From: Salem Karani <salemkarani@gmail.com>
+Date: Mon, 6 Oct 2014 08:09:15 -0400
+Subject: [PATCH] German Patch
+
+---
+ HelloWorld/src/HelloWorld.java | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/HelloWorld/src/HelloWorld.java b/HelloWorld/src/HelloWorld.java
+index b316ea1..b02532e 100644
+--- a/HelloWorld/src/HelloWorld.java
++++ b/HelloWorld/src/HelloWorld.java
+@@ -1,7 +1,7 @@
+ 
+ public class HelloWorld {
+ 	public static void main( String [] args){
+-		System.out.println("Hello World!");
++		System.out.println("Hallo Welt");
+ 	}
+ 
+ }
+-- 
+1.9.4
+
